@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+	int l=8;
+	int b=12;
+	clrscr();
+	printf("area of sqere=%d",l*b);
+	getch();
+}
